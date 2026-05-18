@@ -1,4 +1,8 @@
 # EX-8-ADVANCED-ENCRYPTION-STANDARD ALGORITHM
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 # Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
@@ -8,7 +12,7 @@ AES does not use a Feistel network like DES, it uses variant of Rijndael.
 It has a fixed block size of 128 bits, and a key size of 128, 192, or 256 bits.
 AES operates on a 4 × 4 column-major order array of bytes, termed the state
 # PROGRAM:
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -34,7 +38,7 @@ int main() {
 ```
 
 # OUTPUT:
-<img width="1845" height="725" alt="image" src="https://github.com/user-attachments/assets/f53152a0-d1b9-4db9-a163-38be96df4593" />
+<img width="282" height="75" alt="Screenshot 2026-05-18 093624" src="https://github.com/user-attachments/assets/d4b6a003-eac6-4228-b7cd-908a86810b11" />
 
 
 # RESULT:
